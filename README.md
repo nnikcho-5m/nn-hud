@@ -13,3 +13,6 @@ Thanks to everyone who uses it!
 The script is made on qbox, which is a mix of QB and OX, for the script to work you need to download ox_lib, and it is recommended that it be the latest version.
 I have not tested it on QB, but when you download ox_lib, it should work. If you have any problems, you can write to me in Discord privately.
 Discord: 5mplayer.
+
+Images of the script UI:
+![mainimage](https://cdn.discordapp.com/attachments/1472571261673672724/1504515929583784067/image.png?ex=6a074526&is=6a05f3a6&hm=e13871c6907cb8b80323ddd22607f7c9630bacd7622e30efd7a5a90c0c18a595&)
